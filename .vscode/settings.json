@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Kicker\\\\Documents\\\\AlumplastX\\\\assets\" \\| Out-Null; Get-ChildItem -Force \"C:\\\\Users\\\\Kicker\\\\Documents\\\\AlumplastX\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

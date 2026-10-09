@@ -1,0 +1,33 @@
+﻿<svg width="820" height="240" viewBox="0 0 820 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="48" y1="32" x2="690" y2="206" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F0D38B"/>
+      <stop offset="0.3" stop-color="#D8B56A"/>
+      <stop offset="0.65" stop-color="#B98A3D"/>
+      <stop offset="1" stop-color="#F0D38B"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#gold)" stroke-width="5" stroke-linecap="square" stroke-linejoin="round">
+    <path d="M36 204H244"/>
+    <path d="M47 201V83H78V201"/>
+    <path d="M43 88H77M45 105H77M43 123H77M45 141H77M43 159H77M45 177H77M43 195H77"/>
+    <path d="M45 96L76 88M44 117L76 109M44 135L76 127M44 153L76 145M44 171L76 163M44 189L76 181"/>
+    <path d="M38 95H47M38 130H47M38 166H47M38 200H47"/>
+    <path d="M79 201V61C79 43 89 30 101 30C114 30 123 40 123 55V201"/>
+    <path d="M104 53V201"/>
+    <path d="M111 64V80M119 64V80M111 90V106M119 90V106M111 116V132M119 116V132M111 142V158M119 142V158M111 168V184M119 168V184"/>
+    <path d="M125 201V51H237V201"/>
+    <path d="M125 51H237M131 57H229"/>
+    <path d="M133 66H225V78H133Z"/>
+    <path d="M127 87H228L237 78M127 97H224L235 87"/>
+    <path d="M127 109H235L226 120H127"/>
+    <path d="M127 131H222L233 120M127 142H230L220 153H127"/>
+    <path d="M127 164H216L228 153M127 175H225L215 186H127"/>
+    <path d="M140 99V201M169 99V201M198 99V201M224 99V201"/>
+    <path d="M128 101H235M128 123H229M128 155H224M128 188H216"/>
+    <path d="M164 201V171H184V201" fill="url(#gold)"/>
+  </g>
+  <g fill="url(#gold)">
+    <text x="264" y="147" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="700" letter-spacing="-2">AlumPlast</text>
+  </g>
+</svg>
