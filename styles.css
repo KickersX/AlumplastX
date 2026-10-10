@@ -299,7 +299,7 @@ button { font: inherit; }
   background:
     linear-gradient(90deg, rgba(5, 8, 9, 0.82) 0%, rgba(5, 8, 9, 0.62) 38%, rgba(5, 8, 9, 0.26) 100%),
     linear-gradient(0deg, rgba(5, 8, 9, 0.58) 0%, transparent 42%),
-    url("assets/hero-glazing.jpg") center 54% / cover;
+    url("assets/hero-glazing.webp") center 54% / cover;
   overflow: hidden;
   box-shadow: none;
 }
@@ -694,13 +694,13 @@ button { font: inherit; }
   inset: 0;
 }
 .visual-a {
-  background-image: url("assets/project-facade.jpg");
+  background-image: url("assets/project-facade.webp");
 }
 .visual-b {
-  background-image: url("assets/project-tower.jpg");
+  background-image: url("assets/project-tower.webp");
 }
 .visual-c {
-  background-image: url("assets/project-interior.jpg");
+  background-image: url("assets/project-interior.webp");
 }
 .visual-a::before,
 .visual-b::before,
@@ -1572,7 +1572,7 @@ button { font: inherit; }
     background:
       linear-gradient(180deg, #070b10 0%, rgba(7, 11, 16, 0.97) 27%, rgba(7, 11, 16, 0.64) 48%, rgba(7, 11, 16, 0.08) 76%),
       linear-gradient(90deg, rgba(7, 11, 16, 0.18), transparent 76%),
-      url("assets/hero-glazing.jpg") 78% center / auto 100%;
+      url("assets/hero-glazing.webp") 78% center / auto 100%;
   }
   .hero-copy h1 {
     font-size: clamp(2.35rem, 9.2vw, 3.3rem);

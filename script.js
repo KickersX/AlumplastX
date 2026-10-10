@@ -304,12 +304,12 @@ if (finishConfigurator) {
       const windowImage = windowHotspot.closest('.finish-window-visual').querySelector('img');
       const showingOpen = windowImage.dataset.showingOpen !== 'true';
       windowImage.src = showingOpen ? windowImage.dataset.alternateSrc : windowImage.dataset.windowPhoto === 'single'
-        ? 'assets/finishes/window-single-anthracite.jpg'
+        ? 'assets/finishes/window-single-anthracite.webp'
         : windowImage.dataset.windowPhoto === 'double'
-          ? 'assets/finishes/window-double-anthracite.jpg'
+          ? 'assets/finishes/window-double-anthracite.webp'
           : windowImage.dataset.windowPhoto === 'tilt'
-            ? 'assets/finishes/window-tilt.jpg'
-            : 'assets/finishes/window-triple.jpg';
+            ? 'assets/finishes/window-tilt.webp'
+            : 'assets/finishes/window-triple.webp';
       windowImage.dataset.showingOpen = String(showingOpen);
       windowHotspot.setAttribute('aria-pressed', String(showingOpen));
       windowHotspot.dataset.i18nAriaLabel = showingOpen ? 'finish.showClosedWindow' : 'finish.showOpenWindow';
@@ -321,7 +321,7 @@ if (finishConfigurator) {
     if (singleDoorHotspot && finishConfigurator.contains(singleDoorHotspot)) {
       const doorImage = finishConfigurator.querySelector('.finish-single-door-visual img');
       const showingOpen = doorImage.dataset.showingOpen !== 'true';
-      doorImage.src = showingOpen ? doorImage.dataset.alternateSrc : 'assets/finishes/single-door.jpg';
+      doorImage.src = showingOpen ? doorImage.dataset.alternateSrc : 'assets/finishes/single-door.webp';
       doorImage.dataset.showingOpen = String(showingOpen);
       singleDoorHotspot.setAttribute('aria-pressed', String(showingOpen));
       singleDoorHotspot.dataset.i18nAriaLabel = showingOpen ? 'finish.showClosedSingleDoor' : 'finish.showOpenSingleDoor';
@@ -333,7 +333,7 @@ if (finishConfigurator) {
     if (doubleDoorHotspot && finishConfigurator.contains(doubleDoorHotspot)) {
       const doorImage = finishConfigurator.querySelector('.finish-double-door-visual img');
       const showingOpen = doorImage.dataset.showingOpen !== 'true';
-      doorImage.src = showingOpen ? doorImage.dataset.alternateSrc : 'assets/finishes/door-double.jpg';
+      doorImage.src = showingOpen ? doorImage.dataset.alternateSrc : 'assets/finishes/door-double.webp';
       doorImage.dataset.showingOpen = String(showingOpen);
       doubleDoorHotspot.setAttribute('aria-pressed', String(showingOpen));
       doubleDoorHotspot.dataset.i18nAriaLabel = showingOpen ? 'finish.showClosedDoubleDoor' : 'finish.showOpenDoubleDoor';
@@ -345,7 +345,7 @@ if (finishConfigurator) {
     if (automaticDoorHotspot && finishConfigurator.contains(automaticDoorHotspot)) {
       const doorImage = finishConfigurator.querySelector('.finish-automatic-door-visual img');
       const showingOpen = doorImage.dataset.showingOpen !== 'true';
-      doorImage.src = showingOpen ? doorImage.dataset.alternateSrc : 'assets/finishes/door-automatic.jpg';
+      doorImage.src = showingOpen ? doorImage.dataset.alternateSrc : 'assets/finishes/door-automatic.webp';
       doorImage.dataset.showingOpen = String(showingOpen);
       automaticDoorHotspot.setAttribute('aria-pressed', String(showingOpen));
       automaticDoorHotspot.dataset.i18nAriaLabel = showingOpen ? 'finish.showClosedAutomaticDoor' : 'finish.showOpenAutomaticDoor';
@@ -393,7 +393,7 @@ if (finishConfigurator) {
     if (doorHotspot && finishConfigurator.contains(doorHotspot)) {
       const doorImage = finishConfigurator.querySelector('.finish-sliding-visual img');
       const showingAlternate = doorImage.dataset.showingAlternate !== 'true';
-      doorImage.src = showingAlternate ? doorImage.dataset.alternateSrc : 'assets/finishes/sliding-door.jpg';
+      doorImage.src = showingAlternate ? doorImage.dataset.alternateSrc : 'assets/finishes/sliding-door.webp';
       doorImage.dataset.showingAlternate = String(showingAlternate);
       doorHotspot.setAttribute('aria-pressed', String(showingAlternate));
       doorHotspot.dataset.i18nAriaLabel = showingAlternate ? 'finish.showOriginalDoor' : 'finish.showAlternateDoor';
