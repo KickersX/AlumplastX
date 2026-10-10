@@ -107,11 +107,13 @@ const finishTranslations = {
     'finish.navigation': 'Tənzimləmə addımları', 'finish.previousStep': 'Əvvəlki addım', 'finish.nextStep': 'Növbəti addım',
     'finish.previousColors': 'Əvvəlki rənglər', 'finish.nextColors': 'Növbəti rənglər', 'finish.ralPicker': 'Sərbəst rəng seçin',
     'finish.solutionType': 'Həll növü', 'finish.productType': 'Məhsulun növü', 'finish.windows': 'Pəncərələr', 'finish.doors': 'Qapılar', 'finish.partitions': 'Ofis arakəsmələri', 'finish.mosquitoNets': 'Ağcaqanad torları', 'finish.mosquitoStandard': 'Adi', 'finish.mosquitoOpening': 'Açılan', 'finish.aluminium': 'Alüminium', 'finish.plastic': 'Plastik', 'finish.single': 'Təkqanadlı', 'finish.double': 'İkiqanadlı', 'finish.tiltWindow': 'Yuxarıdan açılan', 'finish.triple': 'Üçqanadlı', 'finish.sliding': 'Sürüşən', 'finish.singleDoor': 'Tək qapı', 'finish.doubleDoor': 'İkiqanadlı qapı', 'finish.automaticDoor': 'Avtomatik qapılar', 'finish.antiPanic': 'Antipanik', 'finish.showAlternateDoor': 'Alternativ sürüşən qapı görünüşünü göstər', 'finish.showOriginalDoor': 'İlkin sürüşən qapı görünüşünü göstər', 'finish.showClosedSingleDoor': 'Bağlı qapı görünüşünü göstər', 'finish.showOpenSingleDoor': 'Açıq qapı görünüşünü göstər', 'finish.showOpenDoubleDoor': 'Açıq ikikanadlı qapını göstər', 'finish.showClosedDoubleDoor': 'Bağlı ikikanadlı qapını göstər', 'finish.showOpenAutomaticDoor': 'Avtomatik qapıların açıq görünüşünü göstər', 'finish.showClosedAutomaticDoor': 'Avtomatik qapıların bağlı görünüşünü göstər', 'finish.showOpenAntiPanicDoor': 'Açıq antipanik qapını göstər', 'finish.showClosedAntiPanicDoor': 'Bağlı antipanik qapını göstər', 'finish.showOpenPartition': 'Açıq ofis arakəsməsini göstər', 'finish.showClosedPartition': 'Bağlı ofis arakəsməsini göstər', 'finish.showOpenWindow': 'Açıq pəncərə görünüşünü göstər', 'finish.showClosedWindow': 'Bağlı pəncərə görünüşünü göstər',
+    'finish.color': 'Rəng', 'finish.profileMaterial': 'Profil materialı', 'finish.mahogany': 'Maqon', 'finish.whiteOak': 'Ağ palıd',
     'finish.polymer': 'Polimer örtük', 'finish.anodizing': 'Anodlaşdırma', 'finish.decor': 'Dekor örtüyü',
     'finish.colors': 'Rənglər', 'finish.texture': 'Örtüyün fakturası', 'finish.matte': 'Mat', 'finish.glossy': 'Parlaq', 'finish.moire': 'Muar',
     'finish.windowPreview': 'Alüminium pəncərə nümunəsi',
     'finish.polymerDescription': '3 növ örtük seçimi var: mat, parlaq və muar.',
     'finish.ralCount': '200+', 'finish.ralCountLabel': 'RAL kataloqu üzrə rəng',
+    'finish.plasticColorCount': '180+', 'finish.plasticColorCountLabel': 'laminasiya kataloqu üzrə rəng',
     'finish.colorDescription': 'Mövcud nümunələrdən profil rəngini seçin.',
     'finish.anodizingDescription': 'Davamlı qoruyucu səthli metal anodlaşdırılmış çalarlar.',
     'finish.decorDescription': 'Təbii görünüş üçün ağac teksturalı dekor örtükləri.',
@@ -125,11 +127,13 @@ const finishTranslations = {
     'finish.navigation': 'Шаги настройки', 'finish.previousStep': 'Предыдущий шаг', 'finish.nextStep': 'Следующий шаг',
     'finish.previousColors': 'Предыдущие цвета', 'finish.nextColors': 'Следующие цвета', 'finish.ralPicker': 'Выбрать свободный оттенок',
     'finish.solutionType': 'Тип решения', 'finish.productType': 'Тип изделия', 'finish.windows': 'Окна', 'finish.doors': 'Двери', 'finish.partitions': 'Офисные перегородки', 'finish.mosquitoNets': 'Москитные сетки', 'finish.mosquitoStandard': 'Обычная', 'finish.mosquitoOpening': 'Открывающаяся', 'finish.aluminium': 'Алюминий', 'finish.plastic': 'Пластик', 'finish.single': 'Одностворчатое', 'finish.double': 'Двухстворчатое', 'finish.tiltWindow': 'Откидное', 'finish.triple': 'Трёхстворчатое', 'finish.sliding': 'Раздвижная', 'finish.singleDoor': 'Одностворчатая дверь', 'finish.doubleDoor': 'Двухстворчатая дверь', 'finish.automaticDoor': 'Автоматические двери', 'finish.antiPanic': 'Антипаник', 'finish.showAlternateDoor': 'Показать другой вариант раздвижной двери', 'finish.showOriginalDoor': 'Показать исходный вариант раздвижной двери', 'finish.showClosedSingleDoor': 'Показать закрытую дверь', 'finish.showOpenSingleDoor': 'Показать открытую дверь', 'finish.showOpenDoubleDoor': 'Показать открытую двухстворчатую дверь', 'finish.showClosedDoubleDoor': 'Показать закрытую двухстворчатую дверь', 'finish.showOpenAutomaticDoor': 'Показать открытые автоматические двери', 'finish.showClosedAutomaticDoor': 'Показать закрытые автоматические двери', 'finish.showOpenAntiPanicDoor': 'Показать открытую дверь «Антипаник»', 'finish.showClosedAntiPanicDoor': 'Показать закрытую дверь «Антипаник»', 'finish.showOpenPartition': 'Показать открытую офисную перегородку', 'finish.showClosedPartition': 'Показать закрытую офисную перегородку', 'finish.showOpenWindow': 'Показать открытое окно', 'finish.showClosedWindow': 'Показать закрытое окно',
+    'finish.color': 'Цвет', 'finish.profileMaterial': 'Материал профиля', 'finish.mahogany': 'Махагон', 'finish.whiteOak': 'Белый дуб',
     'finish.polymer': 'Полимерное покрытие', 'finish.anodizing': 'Анодирование', 'finish.decor': 'Декорирование',
     'finish.colors': 'Цвета', 'finish.texture': 'Фактура покрытия', 'finish.matte': 'Матовая', 'finish.glossy': 'Глянцевая', 'finish.moire': 'Муаровая',
     'finish.windowPreview': 'Пример алюминиевого окна',
     'finish.polymerDescription': 'На выбор предоставляется 3 типа покрытий: матовое, глянцевое и муар.',
     'finish.ralCount': '200+', 'finish.ralCountLabel': 'цветов по каталогу RAL',
+    'finish.plasticColorCount': '180+', 'finish.plasticColorCountLabel': 'цветов по каталогу ламинирования',
     'finish.colorDescription': 'Выберите цвет профиля из доступных образцов.',
     'finish.anodizingDescription': 'Металлические оттенки с прочным защитным анодированным слоем.',
     'finish.decorDescription': 'Декоративные текстуры под дерево для естественного вида.',
@@ -143,11 +147,13 @@ const finishTranslations = {
     'finish.navigation': 'Configuration steps', 'finish.previousStep': 'Previous step', 'finish.nextStep': 'Next step',
     'finish.previousColors': 'Previous colours', 'finish.nextColors': 'Next colours', 'finish.ralPicker': 'Choose a free colour',
     'finish.solutionType': 'Solution type', 'finish.productType': 'Product type', 'finish.windows': 'Windows', 'finish.doors': 'Doors', 'finish.partitions': 'Office partitions', 'finish.mosquitoNets': 'Mosquito nets', 'finish.mosquitoStandard': 'Standard', 'finish.mosquitoOpening': 'Openable', 'finish.aluminium': 'Aluminium', 'finish.plastic': 'Plastic', 'finish.single': 'Single sash', 'finish.double': 'Double sash', 'finish.tiltWindow': 'Tilt window', 'finish.triple': 'Triple sash', 'finish.sliding': 'Sliding', 'finish.singleDoor': 'Single door', 'finish.doubleDoor': 'Double door', 'finish.automaticDoor': 'Automatic doors', 'finish.antiPanic': 'Anti-panic', 'finish.showAlternateDoor': 'Show alternate sliding door view', 'finish.showOriginalDoor': 'Show original sliding door view', 'finish.showClosedSingleDoor': 'Show closed door', 'finish.showOpenSingleDoor': 'Show open door', 'finish.showOpenDoubleDoor': 'Show open double door', 'finish.showClosedDoubleDoor': 'Show closed double door', 'finish.showOpenAutomaticDoor': 'Show open automatic doors', 'finish.showClosedAutomaticDoor': 'Show closed automatic doors', 'finish.showOpenAntiPanicDoor': 'Show open anti-panic door', 'finish.showClosedAntiPanicDoor': 'Show closed anti-panic door', 'finish.showOpenPartition': 'Show open office partition', 'finish.showClosedPartition': 'Show closed office partition', 'finish.showOpenWindow': 'Show open window', 'finish.showClosedWindow': 'Show closed window',
+    'finish.color': 'Colour', 'finish.profileMaterial': 'Profile material', 'finish.mahogany': 'Mahogany', 'finish.whiteOak': 'White oak',
     'finish.polymer': 'Powder coating', 'finish.anodizing': 'Anodizing', 'finish.decor': 'Wood-effect finish',
     'finish.colors': 'Colours', 'finish.texture': 'Coating texture', 'finish.matte': 'Matte', 'finish.glossy': 'Glossy', 'finish.moire': 'Moiré',
     'finish.windowPreview': 'Aluminium window example',
     'finish.polymerDescription': 'Choose from three coating finishes: matte, gloss and moiré.',
     'finish.ralCount': '200+', 'finish.ralCountLabel': 'colours in the RAL catalogue',
+    'finish.plasticColorCount': '180+', 'finish.plasticColorCountLabel': 'colours in the lamination catalogue',
     'finish.colorDescription': 'Choose a profile colour from the available samples.',
     'finish.anodizingDescription': 'Metallic shades with a durable anodized protective surface.',
     'finish.decorDescription': 'Decorative woodgrain finishes for a natural look.',
@@ -161,11 +167,13 @@ const finishTranslations = {
     'finish.navigation': 'Баптау қадамдары', 'finish.previousStep': 'Алдыңғы қадам', 'finish.nextStep': 'Келесі қадам',
     'finish.previousColors': 'Алдыңғы түстер', 'finish.nextColors': 'Келесі түстер', 'finish.ralPicker': 'Еркін түсті таңдау',
     'finish.solutionType': 'Шешім түрі', 'finish.productType': 'Өнім түрі', 'finish.windows': 'Терезелер', 'finish.doors': 'Есіктер', 'finish.partitions': 'Кеңсе қалқалары', 'finish.mosquitoNets': 'Маса торлары', 'finish.mosquitoStandard': 'Қалыпты', 'finish.mosquitoOpening': 'Ашылатын', 'finish.aluminium': 'Алюминий', 'finish.plastic': 'Пластик', 'finish.single': 'Бір жармалы', 'finish.double': 'Екі жармалы', 'finish.tiltWindow': 'Ашпалы терезе', 'finish.triple': 'Үш жармалы', 'finish.sliding': 'Жылжымалы', 'finish.singleDoor': 'Бір есікті', 'finish.doubleDoor': 'Қос қанатты есік', 'finish.automaticDoor': 'Автоматты есіктер', 'finish.antiPanic': 'Антипаник', 'finish.showAlternateDoor': 'Жылжымалы есіктің басқа көрінісін көрсету', 'finish.showOriginalDoor': 'Жылжымалы есіктің бастапқы көрінісін көрсету', 'finish.showClosedSingleDoor': 'Жабық есікті көрсету', 'finish.showOpenSingleDoor': 'Ашық есікті көрсету', 'finish.showOpenDoubleDoor': 'Қос қанатты ашық есікті көрсету', 'finish.showClosedDoubleDoor': 'Қос қанатты жабық есікті көрсету', 'finish.showOpenAutomaticDoor': 'Ашық автоматты есіктерді көрсету', 'finish.showClosedAutomaticDoor': 'Жабық автоматты есіктерді көрсету', 'finish.showOpenAntiPanicDoor': 'Ашық антипаник есігін көрсету', 'finish.showClosedAntiPanicDoor': 'Жабық антипаник есігін көрсету', 'finish.showOpenPartition': 'Ашық кеңсе қалқасын көрсету', 'finish.showClosedPartition': 'Жабық кеңсе қалқасын көрсету', 'finish.showOpenWindow': 'Ашық терезені көрсету', 'finish.showClosedWindow': 'Жабық терезені көрсету',
+    'finish.color': 'Түс', 'finish.profileMaterial': 'Профиль материалы', 'finish.mahogany': 'Махагон', 'finish.whiteOak': 'Ақ емен',
     'finish.polymer': 'Полимерлі қаптама', 'finish.anodizing': 'Анодтау', 'finish.decor': 'Ағаш түсті әрлеу',
     'finish.colors': 'Түстер', 'finish.texture': 'Қаптама фактурасы', 'finish.matte': 'Күңгірт', 'finish.glossy': 'Жылтыр', 'finish.moire': 'Муарлы',
     'finish.windowPreview': 'Алюминий терезе үлгісі',
     'finish.polymerDescription': 'Қаптаманың 3 түрі ұсынылады: күңгірт, жылтыр және муар.',
     'finish.ralCount': '200+', 'finish.ralCountLabel': 'RAL каталогындағы түс',
+    'finish.plasticColorCount': '180+', 'finish.plasticColorCountLabel': 'ламинация каталогындағы түс',
     'finish.colorDescription': 'Қолжетімді үлгілерден профиль түсін таңдаңыз.',
     'finish.anodizingDescription': 'Берік қорғаныш қабаты бар металл анодталған реңктер.',
     'finish.decorDescription': 'Табиғи көрініске арналған ағаш текстуралы сәндік әрлеу.',
@@ -192,7 +200,9 @@ if (finishConfigurator) {
     finishConfigurator.querySelectorAll('.finish-color-panel').forEach((panel) => {
       panel.hidden = panel.dataset.finishPanel !== finishStep;
     });
-    const selectedProfileColor = finishConfigurator.querySelector('.finish-color-option.is-active');
+    const selectedMaterial = finishConfigurator.querySelector('.finish-material-option.is-active')?.dataset.profileMaterial;
+    const activeColorSet = finishConfigurator.querySelector(`[data-material-colors="${selectedMaterial}"]`);
+    const selectedProfileColor = activeColorSet?.querySelector('.finish-color-option.is-active');
     const coatingPreview = finishConfigurator.querySelector('.finish-coating-preview');
     const typePhotoStage = finishConfigurator.querySelector('.finish-type-photo-stage');
     const showCoatingPreview = finishStep === 'polymer' && Boolean(selectedProfileColor);
@@ -202,7 +212,7 @@ if (finishConfigurator) {
       const coatingImage = coatingPreview.querySelector('img');
       const colorName = finishTranslations[currentLang][`finish.${selectedProfileColor.dataset.profileColor}`];
       coatingImage.src = selectedProfileColor.dataset.profileImage;
-      coatingImage.alt = `${colorName} — ${finishTranslations[currentLang]['finish.polymer']}`;
+      coatingImage.alt = `${colorName} — ${finishTranslations[currentLang][`finish.${selectedMaterial}`]}`;
     }
     const activeOption = isWindow
       ? finishConfigurator.querySelector('.finish-window-options .finish-window-option.is-active')
@@ -265,6 +275,19 @@ if (finishConfigurator) {
   });
 
   finishConfigurator.addEventListener('click', (event) => {
+    const materialOption = event.target.closest('.finish-material-option');
+    if (materialOption && finishConfigurator.contains(materialOption)) {
+      finishConfigurator.querySelectorAll('.finish-material-option').forEach((option) => {
+        const active = option === materialOption;
+        option.classList.toggle('is-active', active);
+        option.setAttribute('aria-pressed', String(active));
+      });
+      finishConfigurator.querySelectorAll('.finish-material-color-set').forEach((set) => {
+        set.hidden = set.dataset.materialColors !== materialOption.dataset.profileMaterial;
+      });
+      updateWindowPreview();
+      return;
+    }
     const colorOption = event.target.closest('.finish-color-option, .finish-swatch-option');
     if (colorOption && finishConfigurator.contains(colorOption)) {
       colorOption.parentElement.querySelectorAll('.finish-color-option, .finish-swatch-option').forEach((option) => {

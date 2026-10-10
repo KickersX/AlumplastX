@@ -835,6 +835,36 @@ button { font: inherit; }
 .finish-color-panel[hidden] {
   display: none;
 }
+.finish-material-color-set[hidden] {
+  display: none;
+}
+.finish-material-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0 0 16px;
+}
+.finish-material-option {
+  min-height: 38px;
+  padding: 0 17px;
+  border: 1px solid #dfe2df;
+  background: #fff;
+  color: #606762;
+  font: inherit;
+  cursor: pointer;
+  transition: color 160ms ease, border-color 160ms ease, background 160ms ease;
+}
+.finish-material-option:hover {
+  border-color: var(--gold);
+}
+.finish-material-option.is-active {
+  border-color: var(--gold);
+  background: linear-gradient(135deg, var(--gold) 0%, #f1d594 100%);
+  color: #171717;
+}
+.finish-material-option.is-active:hover {
+  border-color: var(--gold);
+}
 .finish-color-description {
   margin: 0 0 18px;
   color: #6c736f;
@@ -911,6 +941,18 @@ button { font: inherit; }
 }
 .finish-color-option[data-profile-color="white"] .finish-color-swatch {
   --profile-color: #f4f3ee;
+}
+.finish-color-option[data-profile-color="mahogany"] .finish-color-swatch {
+  --profile-color: #55291f;
+}
+.finish-color-option[data-profile-color="whiteOak"] .finish-color-swatch {
+  --profile-color: #c7beaa;
+}
+.finish-color-option[data-profile-color="walnut"] .finish-color-swatch {
+  --profile-color: #563a29;
+}
+.finish-color-option[data-profile-color="goldenOak"] .finish-color-swatch {
+  --profile-color: #b77b2d;
 }
 .finish-color-name {
   margin-top: 16px;
