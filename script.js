@@ -1,7 +1,10 @@
 const content = {
+    "projects.previousPhoto": "Əvvəlki şəkil", "projects.nextPhoto": "Növbəti şəkil", "projects.thumbnailList": "Şəkil seçimi", "projects.photo": "Şəkil",
+    "projects.pausePhotos": "Avtomatik keçidi dayandır", "projects.playPhotos": "Avtomatik keçidi başlat",
   az: {
+    'meta.title': 'Alumplast | PVC və alüminium pəncərələr, qapılar, fasadlar', 'meta.description': 'Alumplast layihələrindən nümunələr: PVC və alüminium pəncərə-qapılar, eyvan şüşələməsi, duş kabinələri və fasad sistemləri.', 'meta.locale': 'az_AZ',
     'brands.label': 'Sistem markaları',
-    'nav.about': 'Haqqında', 'nav.solutions': 'Həllər', 'nav.process': 'Proses', 'nav.projects': 'Layihələr', 'nav.contact': 'Əlaqə', 'button.consult': 'Konsultasiya',
+    'nav.label': 'Əsas menyu', 'nav.about': 'Haqqında', 'nav.solutions': 'Həllər', 'nav.process': 'Proses', 'nav.projects': 'Layihələrimiz', 'nav.contact': 'Əlaqə', 'button.consult': 'Konsultasiya',
     'hero.eyebrow': 'Memarlıq hərəkətdə', 'hero.title': 'Dəqiq görünən<br />fasad həlləri.', 'hero.subtitle': 'Günlük istifadəyə uyğun, aydın memarlıq və davamlı alüminium sistemləri.', 'hero.primaryCta': 'Həlləri kəşf et', 'hero.secondaryCta': 'Layihələri gör', 'hero.whatsapp': 'WhatsApp-a yazın', 'whatsapp.message': 'Salam, Alumplast məhsulları haqqında məlumat almaq istəyirəm.', 'hero.proof1': '✓ Pulsuz ölçü', 'hero.proof2': '✓ Uzunömürlü istifadə', 'hero.proof3': '✓ Premium alüminium sistemləri', 'hero.badge': 'Keyfiyyət detallarda',
     'hero.metric1Value': '2008', 'hero.metric1Label': 'Quruluş ili', 'hero.metric2Value': 'A-Z', 'hero.metric2Label': 'Dizayn və icra', 'hero.metric3Value': '4', 'hero.metric3Label': 'Dil',
     'hero.card1Label': 'Fasad sistemləri', 'hero.card1Value': 'Fərdi dizayn', 'hero.card2Label': 'İcra', 'hero.card2Value': 'Dəqiq detallar',
@@ -9,7 +12,12 @@ const content = {
     'about.eyebrow': 'Alumplast haqqında', 'about.title': 'Müasir tikinti üçün nəzərdə tutulan həllər.', 'about.text1': 'Alumplast praktik mühəndislik, şəffaf ünsiyyət və hər bir fasad detalına diqqətlə yanaşır.', 'about.text2': 'İstifadə şəraitinə uyğun, aydın memarlıq, rahatlıq və uzunmüddətli dəyər yaratmaq əsas prioritetimizdir.', 'about.item1Title': 'Struktur aydınlığı', 'about.item1Text': 'Müasir binalar üçün balanslı nisbətlər və dəqiq xətlər.', 'about.item2Title': 'Texniki fokus', 'about.item2Text': 'Yığılma və istifadə üçün praktik həll.',
     'solutions.eyebrow': 'Əsas həllər', 'solutions.title': 'Memarlıq və komfort üçün sistemlər.', 'solutions.link': 'Konsultasiya tələb et', 'solutions.card1Title': 'Fasad sistemləri', 'solutions.card1Text': 'Yaşayış və kommersiya layihələri üçün yüngül, davamlı və ifadəli fasadlar.', 'solutions.card2Title': 'Giriş qrupları', 'solutions.card2Text': 'Təhlükəsizlik, rahatlıq və dizaynı bir arada edən alüminium giriş həlləri.', 'solutions.card3Title': 'Daxili şüşələmə', 'solutions.card3Text': 'Ofislər, otellər və ictimai məkanlar üçün hamar bölmələr və şüşə sistemləri.',
     'process.eyebrow': 'Necə işləyirik', 'process.title': 'Sadə iş axını, aydın qərarlar.', 'process.step1Title': 'Müraciət və məqsəd', 'process.step1Text': 'Tapşırığın, layihənin kontekstinin və məkanın praktik tələblərinin öyrənilməsi.', 'process.step2Title': 'Sistem seçimi', 'process.step2Text': 'Layihə üçün düzgün texniki və vizual həllin seçilməsi.', 'process.step3Title': 'İstehsal və koordinasiya', 'process.step3Text': 'Dəqiq icra, aydın plan və ardıcıl texniki yanaşma.',
-    'projects.eyebrow': 'Seçilmiş işlər', 'projects.title': 'Dəqiq şəkildə qurulmuş müasir layihələr.', 'projects.tag1': 'Yaşayış', 'projects.name1': 'Monolit fasad konsepsiyası', 'projects.tag2': 'Kommersiya', 'projects.name2': 'Şüşəli fasad önlükləri', 'projects.tag3': 'Daxili', 'projects.name3': 'Şəffaf ofis bölmələri',
+    'projects.eyebrow': 'Tamamlanmış layihələr', 'projects.title': 'Alüminium fasad və şüşələmə layihələrimiz', 'projects.intro': 'Doqquz layihəmiz alüminium fasad və şüşələmə sistemlərinin yaşayış, ticarət və ictimai məkanlarda tətbiqini göstərir.',
+    'projects.tagFacade': 'Alüminium cəbhə sistemi', 'projects.tagInterior': 'Daxili şüşələmə',
+    'projects.name1': 'Lexus avtosalonu', 'projects.name2': 'Kia avtosalonu', 'projects.name3': 'Kolgu mətbəx məhsulları', 'projects.name4': 'Norsec Delta Projects', 'projects.name5': 'Guryev yaşayış kompleksi', 'projects.name6': 'Nazerke iş mərkəzi', 'projects.name7': 'Şişka restoranı', 'projects.name8': 'Yaşayış evi', 'projects.name9': 'Baspana yaşayış kompleksi',
+    'projects.location': 'Məkan', 'projects.locationAtyrau': 'Atırau, Qazaxıstan', 'projects.area': 'İşin sahəsi', 'projects.period': 'İcra müddəti',
+    'projects.alt1': 'Lexus avtosalonunun şüşəli fasadı', 'projects.alt2': 'Kia avtosalonunun şüşəli fasadı', 'projects.alt3': 'Kolgu mağazasının şüşəli fasadı', 'projects.alt4': 'Norsec Delta Projects mərkəzinin alüminium və şüşəli fasadı', 'projects.alt5': 'Guryev yaşayış kompleksinin fasadı və pəncərələri', 'projects.alt6': 'Nazerke iş mərkəzinin pəncərələri və girişləri', 'projects.alt7': 'Şişka restoranının daxili şüşəli bölmələri', 'projects.alt8': 'Yaşayış evində alüminium pəncərə və qapılar', 'projects.alt9': 'Baspana yaşayış kompleksinin fasadı və pəncərələri',
+    "projects.more": "Daha çoxuna bax", "projects.backAll": "Bütün layihələrə qayıt", "projects.featuredIntro": "Seçilmiş layihələrimizlə tanış olun.", "projects.pageTitle": "Alumplast | Layihələrimiz", "projects.pageDescription": "Alumplastın alüminium fasad və şüşələmə sahəsindəki layihələrinə baxın. Avtosalonlar, yaşayış binaları, biznes və ictimai məkanlar.", "projects.workScope": "Görülən işlər", "projects.projectFacts": "Layihə haqqında", "projects.gallery": "Layihənin şəkilləri", "projects.scopeFacade": "Alüminium fasad sistemi və fasad şüşələməsi.", "projects.scopeInterior": "Restoran üçün daxili şüşələmə və şüşəli arakəsmələr.", "projects.detail1": "Avtosalonun fasadı alüminium sistem və şüşələmə ilə tamamlanıb.", "projects.detail2": "Avtosalon üçün alüminium fasad və geniş vitraj şüşələməsi.", "projects.detail3": "Ticarət obyektinə alüminium fasad və vitraj şüşələməsi.", "projects.detail4": "Biznes mərkəzi üçün alüminium fasad və şüşələmə sistemi.", "projects.detail5": "Yaşayış kompleksinin fasadında alüminium və şüşə həlləri.", "projects.detail6": "İş mərkəzinin fasadında alüminium sistemlər və şüşələmə.", "projects.detail7": "Restoran daxilində şüşəli arakəsmələr və daxili şüşələmə.", "projects.detail8": "Yaşayış evi üçün alüminium pəncərə və fasad sistemləri.", "projects.detail9": "Baspana yaşayış kompleksinin fasadında alüminium pəncərə və şüşələmə həlləri.",
     'cta.eyebrow': 'Layihəyə start', 'cta.title': 'Fərdi alüminium həlli lazım mıdır?', 'cta.button': 'Zəng tələb et', 'footer.text': 'Memarlıq, komfort və davamlılıq üçün alüminium sistemləri.',
     'home.eyebrow': 'Pəncərə və interyer həlləri', 'home.title': 'Pəncərədən duş<br />kabinasına qədər.', 'home.subtitle': 'PVC və alüminium pəncərələr, eyvan şüşələməsi, qapılar, duş kabinələri, jalüzlər və döşəmə örtükləri — ölçüyə uyğun istehsal və quraşdırma.', 'home.proof3': '✓ PVC və alüminium sistemləri', 'home.cta': 'Eviniz üçün doğru həlli axtarırsınız?', 'home.footer': 'Pəncərə, qapı, duş kabinəsi və interyer həllərinin ölçüyə uyğun istehsalı və quraşdırılması.',
     'catalog.eyebrow': 'Məhsul kateqoriyaları', 'catalog.title': 'Pəncərə, qapı və interyer üçün hər şey', 'catalog.link': 'Məhsul barədə soruşun',
@@ -24,9 +32,12 @@ const content = {
     'catalog.item8Title': 'Duş kabinələri və şüşə arakəsmələr', 'catalog.item8Text': 'Hamam otağınızın ölçüsünə uyğun hazırlanmış şüşə duş kabinələri.',
     'catalog.item9Title': 'SPC və vinil döşəmə', 'catalog.item9Text': 'Gündəlik istifadə üçün davamlı və suya davamlı döşəmə örtükləri.'
   },
+    "projects.previousPhoto": "Предыдущее фото", "projects.nextPhoto": "Следующее фото", "projects.thumbnailList": "Выбор фото", "projects.photo": "Фото",
+    "projects.pausePhotos": "Приостановить автопрокрутку", "projects.playPhotos": "Продолжить автопрокрутку",
   ru: {
+    'meta.title': 'Alumplast | Пластиковые и алюминиевые окна, двери, фасады', 'meta.description': 'Проекты Alumplast: пластиковые и алюминиевые окна и двери, остекление балконов, душевые кабины и фасадные системы.', 'meta.locale': 'ru_RU',
     'brands.label': 'Бренды систем',
-    'nav.about': 'О компании', 'nav.solutions': 'Решения', 'nav.process': 'Процесс', 'nav.projects': 'Проекты', 'nav.contact': 'Контакты', 'button.consult': 'Консультация',
+    'nav.label': 'Основное меню', 'nav.about': 'О компании', 'nav.solutions': 'Решения', 'nav.process': 'Процесс', 'nav.projects': 'Наши проекты', 'nav.contact': 'Контакты', 'button.consult': 'Консультация',
     'hero.eyebrow': 'Архитектура в движении', 'hero.title': 'Окна и фасады<br />точной геометрии.', 'hero.subtitle': 'Функциональные алюминиевые системы, которые делают пространство светлее, спокойнее и надёжнее.', 'hero.primaryCta': 'Смотреть решения', 'hero.secondaryCta': 'Наши проекты', 'hero.whatsapp': 'Написать в WhatsApp', 'whatsapp.message': 'Здравствуйте, хочу узнать о продукции Alumplast.', 'hero.proof1': '✓ Бесплатный замер', 'hero.proof2': '✓ Долговечность систем', 'hero.proof3': '✓ Премиальные алюминиевые системы', 'hero.badge': 'Качество в деталях',
     'hero.metric1Value': '2008', 'hero.metric1Label': 'С момента основания', 'hero.metric2Value': 'A-Z', 'hero.metric2Label': 'Дизайн и реализация', 'hero.metric3Value': '4', 'hero.metric3Label': 'Языка',
     'hero.card1Label': 'Фасадные системы', 'hero.card1Value': 'Индивидуальный дизайн', 'hero.card2Label': 'Реализация', 'hero.card2Value': 'Точная детализация',
@@ -34,7 +45,12 @@ const content = {
     'about.eyebrow': 'О Alumplast', 'about.title': 'Решения, созданные для современной стройки.', 'about.text1': 'Alumplast объединяет практическую инженерию, прозрачное общение и внимательный подход к каждой детали фасада.', 'about.text2': 'Мы строим решения, которые работают в реальных условиях: архитектурная ясность, повседневная функциональность и ценность на долгие годы.', 'about.item1Title': 'Структурная ясность', 'about.item1Text': 'Сбалансированные пропорции и точные линии для современных зданий.', 'about.item2Title': 'Технический подход', 'about.item2Text': 'Решение, удобное в сборке и эффективное в использовании.',
     'solutions.eyebrow': 'Основные решения', 'solutions.title': 'Системы для архитектуры и комфорта.', 'solutions.link': 'Запросить консультацию', 'solutions.card1Title': 'Фасадные системы', 'solutions.card1Text': 'Лёгкие, прочные и выразительные оболочки для жилых и коммерческих объектов.', 'solutions.card2Title': 'Входные группы', 'solutions.card2Text': 'Элегантные алюминиевые входы, объединяющие безопасность, удобство и дизайн.', 'solutions.card3Title': 'Внутреннее остекление', 'solutions.card3Text': 'Бесшовные перегородки и стеклянные системы для офисов, отелей и общественных пространств.',
     'process.eyebrow': 'Как мы работаем', 'process.title': 'Простой процесс, понятные решения.', 'process.step1Title': 'Задача и цель', 'process.step1Text': 'Изучение задачи, контекста проекта и реальных требований к пространству.', 'process.step2Title': 'Выбор системы', 'process.step2Text': 'Подбор оптимального технического и визуального решения для проекта.', 'process.step3Title': 'Производство и координация', 'process.step3Text': 'Точная реализация с понятным графиком и последовательным техническим подходом.',
-    'projects.eyebrow': 'Избранные работы', 'projects.title': 'Современные проекты, созданные с точностью.', 'projects.tag1': 'Жилой', 'projects.name1': 'Монолитная фасадная концепция', 'projects.tag2': 'Коммерческий', 'projects.name2': 'Стеклянный фасадный фронт', 'projects.tag3': 'Интерьер', 'projects.name3': 'Прозрачные офисные перегородки',
+    'projects.eyebrow': 'Реализованные проекты', 'projects.title': 'Наши проекты по алюминиевым фасадам и остеклению', 'projects.intro': 'Девять проектов показывают применение алюминиевых фасадных систем и остекления в жилых, коммерческих и общественных зданиях.',
+    'projects.tagFacade': 'Алюминиевый фасад', 'projects.tagInterior': 'Внутреннее остекление',
+    'projects.name1': 'Автосалон Lexus', 'projects.name2': 'Автосалон Kia', 'projects.name3': 'Салон кухонь Kolgu', 'projects.name4': 'Norsec Delta Projects', 'projects.name5': 'Жилой комплекс Guryev', 'projects.name6': 'Бизнес-центр Nazerke', 'projects.name7': 'Ресторан «Шишка»', 'projects.name8': 'Жилой дом', 'projects.name9': 'ЖК «Баспана»',
+    'projects.location': 'Место', 'projects.locationAtyrau': 'Атырау, Казахстан', 'projects.area': 'Площадь работ', 'projects.period': 'Период выполнения',
+    'projects.alt1': 'Стеклянный фасад автосалона Lexus', 'projects.alt2': 'Стеклянный фасад автосалона Kia', 'projects.alt3': 'Стеклянный фасад салона Kolgu', 'projects.alt4': 'Алюминиевый и стеклянный фасад центра Norsec Delta Projects', 'projects.alt5': 'Фасад и окна жилого комплекса Guryev', 'projects.alt6': 'Окна и входы бизнес-центра Nazerke', 'projects.alt7': 'Внутренние стеклянные перегородки ресторана «Шишка»', 'projects.alt8': 'Алюминиевые окна и двери жилого дома', 'projects.alt9': 'Фасад и окна жилого комплекса «Баспана» в Атырау',
+    "projects.more": "Смотреть все проекты", "projects.backAll": "Ко всем проектам", "projects.featuredIntro": "Посмотрите некоторые из наших избранных проектов.", "projects.pageTitle": "Alumplast | Наши проекты", "projects.pageDescription": "Проекты Alumplast в области алюминиевых фасадов и остекления: автосалоны, жилые здания, бизнес-центры и общественные пространства.", "projects.workScope": "Выполненные работы", "projects.projectFacts": "О проекте", "projects.gallery": "Фотографии проекта", "projects.scopeFacade": "Алюминиевая фасадная система и остекление фасада.", "projects.scopeInterior": "Внутреннее остекление и стеклянные перегородки ресторана.", "projects.detail1": "Фасад автосалона выполнен с использованием алюминиевой системы и остекления.", "projects.detail2": "Алюминиевый фасад и панорамное остекление автосалона.", "projects.detail3": "Алюминиевый фасад и витражное остекление торгового объекта.", "projects.detail4": "Алюминиевая фасадная система и остекление делового центра.", "projects.detail5": "Алюминиевые и стеклянные фасадные решения для жилого комплекса.", "projects.detail6": "Алюминиевые фасадные системы и остекление делового центра.", "projects.detail7": "Внутренние стеклянные перегородки и остекление ресторана.", "projects.detail8": "Алюминиевые окна и фасадные системы для жилого дома.", "projects.detail9": "Алюминиевые окна и остекление фасада жилого комплекса «Баспана».",
     'cta.eyebrow': 'Запуск проекта', 'cta.title': 'Нужен индивидуальный алюминиевый проект?', 'cta.button': 'Заказать обратный звонок', 'footer.text': 'Алюминиевые системы для архитектуры, комфорта и долговечности.',
     'home.eyebrow': 'Окна и решения для интерьера', 'home.title': 'От окон<br />до душевых кабин.', 'home.subtitle': 'Пластиковые и алюминиевые окна, остекление балконов, двери, душевые кабины, жалюзи и напольные покрытия — изготовление по размеру и установка.', 'home.proof3': '✓ Пластиковые и алюминиевые системы', 'home.cta': 'Подбираете решения для дома?', 'home.footer': 'Окна, двери, душевые кабины и решения для интерьера — изготовление и установка по размеру.',
     'catalog.eyebrow': 'Категории продукции', 'catalog.title': 'Всё для окон, дверей и интерьера', 'catalog.link': 'Уточнить по продукту',
@@ -49,9 +65,12 @@ const content = {
     'catalog.item8Title': 'Душевые кабины и стеклянные перегородки', 'catalog.item8Text': 'Стеклянные душевые кабины, изготовленные по размеру вашей ванной комнаты.',
     'catalog.item9Title': 'SPC- и виниловые полы', 'catalog.item9Text': 'Износостойкие и влагостойкие напольные покрытия для повседневной жизни.'
   },
+    "projects.previousPhoto": "Previous photo", "projects.nextPhoto": "Next photo", "projects.thumbnailList": "Choose a photo", "projects.photo": "Photo",
+    "projects.pausePhotos": "Pause slideshow", "projects.playPhotos": "Resume slideshow",
   en: {
+    'meta.title': 'Alumplast | PVC and Aluminium Windows, Doors & Facades', 'meta.description': 'Alumplast projects: PVC and aluminium windows and doors, balcony glazing, shower cabins and façade systems.', 'meta.locale': 'en_GB',
     'brands.label': 'System brands',
-    'nav.about': 'About', 'nav.solutions': 'Solutions', 'nav.process': 'Process', 'nav.projects': 'Projects', 'nav.contact': 'Contact', 'button.consult': 'Consultation',
+    'nav.label': 'Main navigation', 'nav.about': 'About', 'nav.solutions': 'Solutions', 'nav.process': 'Process', 'nav.projects': 'Our projects', 'nav.contact': 'Contact', 'button.consult': 'Consultation',
     'hero.eyebrow': 'Architecture in motion', 'hero.title': 'Façade systems<br />designed with precision.', 'hero.subtitle': 'Functional aluminium systems that make spaces brighter, calmer and more durable.', 'hero.primaryCta': 'Explore solutions', 'hero.secondaryCta': 'View projects', 'hero.whatsapp': 'Message us on WhatsApp', 'whatsapp.message': 'Hello, I would like to learn more about Alumplast products.', 'hero.proof1': '✓ Free measurement', 'hero.proof2': '✓ Long-lasting performance', 'hero.proof3': '✓ Premium aluminium systems', 'hero.badge': 'Quality in every detail',
     'hero.metric1Value': '2008', 'hero.metric1Label': 'Founded', 'hero.metric2Value': 'A-Z', 'hero.metric2Label': 'Design &amp; delivery', 'hero.metric3Value': '4', 'hero.metric3Label': 'Languages',
     'hero.card1Label': 'Facade systems', 'hero.card1Value': 'Custom design', 'hero.card2Label': 'Delivery', 'hero.card2Value': 'Precise detailing',
@@ -59,7 +78,12 @@ const content = {
     'about.eyebrow': 'About Alumplast', 'about.title': 'Solutions tailored for modern construction.', 'about.text1': 'Alumplast combines practical engineering, clear communication and careful attention to every façade detail.', 'about.text2': 'We focus on aluminium systems that perform in real conditions: architectural clarity, everyday usability and long-term value.', 'about.item1Title': 'Structural clarity', 'about.item1Text': 'Balanced proportions and precise lines for contemporary buildings.', 'about.item2Title': 'Technical focus', 'about.item2Text': 'A solution that is practical in assembly and efficient in use.',
     'solutions.eyebrow': 'Core solutions', 'solutions.title': 'Systems for architecture and comfort.', 'solutions.link': 'Request a consultation', 'solutions.card1Title': 'Facade systems', 'solutions.card1Text': 'Lightweight, durable and expressive envelopes for residential and commercial projects.', 'solutions.card2Title': 'Entrance groups', 'solutions.card2Text': 'Elegant aluminium entrances that combine safety, convenience and design.', 'solutions.card3Title': 'Interior glazing', 'solutions.card3Text': 'Seamless partitions and glazing systems for offices, hotels and public spaces.',
     'process.eyebrow': 'How we work', 'process.title': 'A clear workflow with decisive steps.', 'process.step1Title': 'Brief and goal', 'process.step1Text': 'Studying the task, the project context and the practical requirements of the space.', 'process.step2Title': 'System selection', 'process.step2Text': 'Choosing the right technical and visual solution for the project.', 'process.step3Title': 'Production and coordination', 'process.step3Text': 'Precise implementation with a clear timeline and consistent technical approach.',
-    'projects.eyebrow': 'Selected work', 'projects.title': 'Modern projects built with precision.', 'projects.tag1': 'Residential', 'projects.name1': 'Monolithic façade concept', 'projects.tag2': 'Commercial', 'projects.name2': 'Glass front elevation', 'projects.tag3': 'Interior', 'projects.name3': 'Transparent office divisions',
+    'projects.eyebrow': 'Completed projects', 'projects.title': 'Our aluminium façade and glazing projects', 'projects.intro': 'Nine completed projects show aluminium façade systems and glazing across residential, automotive, business and public spaces.',
+    'projects.tagFacade': 'Aluminium façade system', 'projects.tagInterior': 'Interior glazing',
+    'projects.name1': 'Lexus showroom', 'projects.name2': 'Kia showroom', 'projects.name3': 'Kolgu kitchen showroom', 'projects.name4': 'Norsec Delta Projects', 'projects.name5': 'Guryev Residential Complex', 'projects.name6': 'Nazerke Business Center', 'projects.name7': 'Shishka Restaurant', 'projects.name8': 'Private residence', 'projects.name9': 'Baspana Residential Complex',
+    'projects.location': 'Location', 'projects.locationAtyrau': 'Atyrau, Kazakhstan', 'projects.area': 'Project area', 'projects.period': 'Project period',
+    'projects.alt1': 'Glazed façade of the Lexus showroom', 'projects.alt2': 'Glazed façade of the Kia showroom', 'projects.alt3': 'Glazed façade of the Kolgu showroom', 'projects.alt4': 'Aluminium and glass façade at Norsec Delta Projects', 'projects.alt5': 'Façade and windows of the Guryev residential complex', 'projects.alt6': 'Windows and entrances at Nazerke Business Center', 'projects.alt7': 'Interior glazed partitions at Shishka Restaurant', 'projects.alt8': 'Aluminium windows and doors at a private residence', 'projects.alt9': 'Facade and windows of the Baspana residential complex in Atyrau',
+    "projects.more": "View all projects", "projects.backAll": "Back to all projects", "projects.featuredIntro": "Explore a selection of our completed projects.", "projects.pageTitle": "Alumplast | Our Projects", "projects.pageDescription": "Explore Alumplast aluminium facade and glazing projects across automotive, residential, business and public spaces.", "projects.workScope": "Scope of work", "projects.projectFacts": "Project details", "projects.gallery": "Project photos", "projects.scopeFacade": "Aluminium facade system and facade glazing.", "projects.scopeInterior": "Interior glazing and glass partitions for the restaurant.", "projects.detail1": "The showroom facade features an aluminium system and glazing.", "projects.detail2": "Aluminium facade and full-height glazing for the auto showroom.", "projects.detail3": "Aluminium facade and glazed frontage for a retail space.", "projects.detail4": "Aluminium facade system and glazing for a business centre.", "projects.detail5": "Aluminium and glass facade solutions for a residential complex.", "projects.detail6": "Aluminium facade systems and glazing for a business centre.", "projects.detail7": "Interior glass partitions and glazing for the restaurant.", "projects.detail8": "Aluminium windows and facade systems for a residence.", "projects.detail9": "Aluminium windows and facade glazing at the Baspana residential complex.",
     'cta.eyebrow': 'Start a project', 'cta.title': 'Need a tailored aluminium solution?', 'cta.button': 'Request a callback', 'footer.text': 'Aluminium systems for architecture, comfort and longevity.',
     'home.eyebrow': 'Windows and interior solutions', 'home.title': 'From windows<br />to shower cabins.', 'home.subtitle': 'PVC and aluminium windows, balcony glazing, doors, shower cabins, blinds and flooring — made to measure and professionally installed.', 'home.proof3': '✓ PVC and aluminium systems', 'home.cta': 'Looking for the right solution for your home?', 'home.footer': 'Windows, doors, shower cabins and interior solutions, made and installed to measure.',
     'catalog.eyebrow': 'Product categories', 'catalog.title': 'Everything for windows, doors and interiors', 'catalog.link': 'Ask about a product',
@@ -74,9 +98,12 @@ const content = {
     'catalog.item8Title': 'Shower cabins and glass partitions', 'catalog.item8Text': 'Glass shower cabins made to fit your bathroom.',
     'catalog.item9Title': 'SPC and vinyl flooring', 'catalog.item9Text': 'Durable, water-resistant floors for everyday living.'
   },
+    "projects.previousPhoto": "Алдыңғы сурет", "projects.nextPhoto": "Келесі сурет", "projects.thumbnailList": "Суретті таңдау", "projects.photo": "Сурет",
+    "projects.pausePhotos": "Автоматты ауысуды тоқтату", "projects.playPhotos": "Автоматты ауысуды жалғастыру",
   kk: {
+    'meta.title': 'Alumplast | ПВХ және алюминий терезелер, есіктер, қасбеттер', 'meta.description': 'Alumplast жобалары: ПВХ және алюминий терезелер мен есіктер, балкон әйнектеу, душ кабиналары және қасбет жүйелері.', 'meta.locale': 'kk_KZ',
     'brands.label': 'Жүйе брендтері',
-    'nav.about': 'Компания туралы', 'nav.solutions': 'Шешімдер', 'nav.process': 'Процесс', 'nav.projects': 'Жобалар', 'nav.contact': 'Байланыс', 'button.consult': 'Консультация',
+    'nav.label': 'Негізгі мәзір', 'nav.about': 'Компания туралы', 'nav.solutions': 'Шешімдер', 'nav.process': 'Процесс', 'nav.projects': 'Жобаларымыз', 'nav.contact': 'Байланыс', 'button.consult': 'Консультация',
     'hero.eyebrow': 'Архитектура қозғалыста', 'hero.title': 'Дәл көрінетін<br />фасад шешімдері.', 'hero.subtitle': 'Күнделікті пайдалануға қолайлы, анық архитектура және берік алюминий жүйелері.', 'hero.primaryCta': 'Шешімдерді қарау', 'hero.secondaryCta': 'Жобаларды көру', 'hero.whatsapp': 'WhatsApp-қа жазыңыз', 'whatsapp.message': 'Сәлеметсіз бе, Alumplast өнімдері туралы білгім келеді.', 'hero.proof1': '✓ Тегін өлшеу', 'hero.proof2': '✓ Ұзақ мерзімді беріктік', 'hero.proof3': '✓ Премиум алюминий жүйелері', 'hero.badge': 'Әр бөлшекте сапа',
     'hero.metric1Value': '2008', 'hero.metric1Label': 'Негізделген жыл', 'hero.metric2Value': 'A-Z', 'hero.metric2Label': 'Дизайн және іске асыру', 'hero.metric3Value': '4', 'hero.metric3Label': 'Тіл',
     'hero.card1Label': 'Фасад жүйелері', 'hero.card1Value': 'Жеке дизайн', 'hero.card2Label': 'Іске асыру', 'hero.card2Value': 'Дәл деталдар',
@@ -84,7 +111,12 @@ const content = {
     'about.eyebrow': 'Alumplast туралы', 'about.title': 'Қазіргі құрылыс үшін жасалған шешімдер.', 'about.text1': 'Alumplast практикалық инженерияны, айқын коммуникацияны және әрбір фасад бөлшегіне мұқият қарауды біріктіреді.', 'about.text2': 'Біз шынайы жағдайларда жұмыс істейтін алюминий жүйелеріне назар аударамыз: архитектуралық анықтылық, күнделікті пайдалану және ұзақ мерзімді құн.', 'about.item1Title': 'Құрылымдық анықтылық', 'about.item1Text': 'Қазіргі ғимараттар үшін үйлесімді пропорциялар мен дәл сызықтар.', 'about.item2Title': 'Техникалық көзқарас', 'about.item2Text': 'Сбірісте ыңғайлы және пайдалануда тиімді шешім.',
     'solutions.eyebrow': 'Негізгі шешімдер', 'solutions.title': 'Архитектура және комфорт үшін жүйелер.', 'solutions.link': 'Консультация сұрау', 'solutions.card1Title': 'Фасад жүйелері', 'solutions.card1Text': 'Тұрғын және коммерциялық жобалар үшін жеңіл, берік және экспрессивті қабықшалар.', 'solutions.card2Title': 'Кіріс топтары', 'solutions.card2Text': 'Қауіпсіздік, ыңғайлылық және дизайнді біріктіретін элегантты алюминий кіріс шешімдері.', 'solutions.card3Title': 'Ішкі шынылау', 'solutions.card3Text': 'Офистер, қонақ үйлер және қоғамдық кеңістіктер үшін үздіксіз бөлімдер және шыны жүйелері.',
     'process.eyebrow': 'Біз қалай жұмыс істейміз', 'process.title': 'Қарапайым процесс, түсінікті шешімдер.', 'process.step1Title': 'Тапсырма және мақсат', 'process.step1Text': 'Тапсырманы, жобаның контекстін және кеңістіктің практикалық талаптарын зерттеу.', 'process.step2Title': 'Жүйені таңдау', 'process.step2Text': 'Жоба үшін дұрыс техникалық және визуалды шешімді таңдау.', 'process.step3Title': 'Өндіріс және үйлестіру', 'process.step3Text': 'Дәл іске асыру, анық график және дәйекті техникалық тәсіл.',
-    'projects.eyebrow': 'Таңдаулы жұмыстар', 'projects.title': 'Дәлдікпен салынған заманауи жобалар.', 'projects.tag1': 'Тұрғын', 'projects.name1': 'Монолиттік фасад концепциясы', 'projects.tag2': 'Коммерциялық', 'projects.name2': 'Шыны фасад фронты', 'projects.tag3': 'Ішкі', 'projects.name3': 'Таяз офистік бөліктер',
+    'projects.eyebrow': 'Аяқталған жобалар', 'projects.title': 'Алюминий қасбеттері мен әйнектеу жобаларымыз', 'projects.intro': 'Тоғыз жоба алюминий қасбет жүйелері мен әйнектеудің тұрғын, коммерциялық және қоғамдық кеңістіктерде қолданылуын көрсетеді.',
+    'projects.tagFacade': 'Алюминий қасбет жүйесі', 'projects.tagInterior': 'Ішкі әйнектеу',
+    'projects.name1': 'Lexus автосалоны', 'projects.name2': 'Kia автосалоны', 'projects.name3': 'Kolgu асүй дүкені', 'projects.name4': 'Norsec Delta Projects', 'projects.name5': 'Guryev тұрғын үй кешені', 'projects.name6': 'Nazerke бизнес орталығы', 'projects.name7': 'Shishka мейрамханасы', 'projects.name8': 'Тұрғын үй', 'projects.name9': 'Baspana тұрғын үй кешені',
+    'projects.location': 'Орналасқан жері', 'projects.locationAtyrau': 'Атырау, Қазақстан', 'projects.area': 'Жұмыс ауданы', 'projects.period': 'Орындалу кезеңі',
+    'projects.alt1': 'Lexus автосалонының әйнекті қасбеті', 'projects.alt2': 'Kia автосалонының әйнекті қасбеті', 'projects.alt3': 'Kolgu дүкенінің әйнекті қасбеті', 'projects.alt4': 'Norsec Delta Projects орталығының алюминий және әйнекті қасбеті', 'projects.alt5': 'Guryev тұрғын үй кешенінің қасбеті мен терезелері', 'projects.alt6': 'Nazerke бизнес орталығының терезелері мен кіреберістері', 'projects.alt7': 'Shishka мейрамханасының ішкі әйнекті қалқалары', 'projects.alt8': 'Тұрғын үйдегі алюминий терезелер мен есіктер', 'projects.alt9': 'Baspana тұрғын үй кешенінің қасбеті мен терезелері',
+    "projects.more": "Барлық жобаны көру", "projects.backAll": "Барлық жобаларға оралу", "projects.featuredIntro": "Таңдаулы жобаларымызбен танысыңыз.", "projects.pageTitle": "Alumplast | Жобаларымыз", "projects.pageDescription": "Alumplast алюминий қасбет жүйелері мен әйнектеу жобалары: автосалондар, тұрғын үйлері, бизнес және қоғамдық кеңістіктер.", "projects.workScope": "Атқарылған жұмыстар", "projects.projectFacts": "Жоба туралы", "projects.gallery": "Жоба фотосуреттері", "projects.scopeFacade": "Алюминий қасбет жүйесі және қасбетті әйнектеу.", "projects.scopeInterior": "Мейрамханаға арналған ішкі әйнектеу мен шыны қалқалар.", "projects.detail1": "Автосалон қасбеті алюминий жүйесі мен әйнектеумен орындалған.", "projects.detail2": "Автосалонға арналған алюминий қасбет пен әйнектеу.", "projects.detail3": "Коммерциялық нысанға арналған алюминий қасбет пен әйнектеу.", "projects.detail4": "Бизнес орталығына арналған алюминий қасбет жүйесі мен әйнектеу.", "projects.detail5": "Тұрғын үй кешенінің қасбетіне арналған алюминий мен шыны шешімдері.", "projects.detail6": "Бизнес орталығының қасбетіндегі алюминий жүйелер мен әйнектеу.", "projects.detail7": "Мейрамхана ішіндегі шыны қалқалар мен әйнектеу.", "projects.detail8": "Тұрғын үйге арналған алюминий терезелер мен қасбет жүйелері.", "projects.detail9": "Baspana тұрғын үй кешенінің қасбетіне арналған алюминий терезелер мен әйнектеу шешімдері.",
     'cta.eyebrow': 'Жоба бастау', 'cta.title': 'Жеке алюминий шешімі қажет пе?', 'cta.button': 'Қайтарым қоңырауын сұрау', 'footer.text': 'Архитектура, комфорт және ұзақ қызмет үшін алюминий жүйелері.',
     'home.eyebrow': 'Терезелер мен интерьер шешімдері', 'home.title': 'Терезеден душ<br />кабинасына дейін.', 'home.subtitle': 'ПВХ және алюминий терезелері, балкон әйнектеу, есіктер, душ кабиналары, перделер мен еден жабындары — өлшем бойынша жасау және орнату.', 'home.proof3': '✓ ПВХ және алюминий жүйелері', 'home.cta': 'Үйіңізге лайық шешім іздеп жүрсіз бе?', 'home.footer': 'Терезелер, есіктер, душ кабиналары және интерьер шешімдерін өлшем бойынша жасап, орнатамыз.',
     'catalog.eyebrow': 'Өнім санаттары', 'catalog.title': 'Терезе, есік және интерьерге қажеттінің бәрі', 'catalog.link': 'Өнім туралы сұрау',
@@ -445,22 +477,196 @@ if (finishConfigurator) {
 function applyTranslations(lang) {
   const dictionary = { ...(content[lang] || content.az), ...finishTranslations[lang] };
   document.documentElement.lang = lang;
+  const projectId = document.body.dataset.projectId;
+  const projectName = projectId ? dictionary[`projects.name${projectId}`] : '';
+  const isProjectsPage = document.body.dataset.page === 'projects';
+  const pageTitle = projectName ? `Alumplast | ${projectName}` : isProjectsPage ? dictionary['projects.pageTitle'] : dictionary['meta.title'] || document.title;
+  const area = document.body.dataset.projectArea ? ` ${dictionary['projects.area']}: ${document.body.dataset.projectArea}.` : '';
+  const period = document.body.dataset.projectPeriod ? ` ${dictionary['projects.period']}: ${document.body.dataset.projectPeriod}.` : '';
+  const pageDescription = projectName
+    ? `${projectName}: ${dictionary[`projects.detail${projectId}`]} ${dictionary['projects.locationAtyrau']}.${area}${period}`
+    : isProjectsPage ? dictionary['projects.pageDescription'] : dictionary['meta.description'];
+  document.title = pageTitle;
+  document.querySelector('meta[name="description"]')?.setAttribute('content', pageDescription);
+  document.querySelector('meta[property="og:title"]')?.setAttribute('content', pageTitle);
+  document.querySelector('meta[property="og:description"]')?.setAttribute('content', pageDescription);
+  document.querySelector('meta[property="og:locale"]')?.setAttribute('content', dictionary['meta.locale']);
   const nodes = document.querySelectorAll('[data-i18n]');
   nodes.forEach((node) => { const key = node.dataset.i18n; if (dictionary[key]) node.innerHTML = dictionary[key]; });
   document.querySelectorAll('[data-i18n-aria-label]').forEach((node) => {
     const translation = dictionary[node.dataset.i18nAriaLabel];
     if (translation) node.setAttribute('aria-label', translation);
   });
+  document.querySelectorAll('[data-i18n-alt]').forEach((node) => {
+    const translation = dictionary[node.dataset.i18nAlt];
+    if (translation) node.setAttribute('alt', translation);
+  });
+  document.querySelectorAll('[data-carousel-thumbnail]').forEach((button) => {
+    const label = dictionary['projects.photo'];
+    button.setAttribute('aria-label', `${label} ${Number(button.dataset.carouselThumbnail) + 1} / ${button.dataset.carouselTotal}`);
+  });
+  document.querySelectorAll('[data-carousel-toggle]').forEach((button) => {
+    const key = button.dataset.carouselPaused === 'true' ? 'projects.playPhotos' : 'projects.pausePhotos';
+    button.setAttribute('aria-label', dictionary[key]);
+  });
   const whatsappButton = document.querySelector('.hero-actions .button-tertiary');
   if (whatsappButton) whatsappButton.href = `https://wa.me/?text=${encodeURIComponent(dictionary['whatsapp.message'])}`;
   document.querySelectorAll('.nav-link').forEach((link) => {
     const href = link.getAttribute('href');
-    if (href === '#solutions') link.textContent = dictionary['nav.solutions'];
+    if (href === '#solutions' || href === 'index.html#solutions') link.textContent = dictionary['nav.solutions'];
+    if (href === '#projects' || href === 'projects.html') link.textContent = dictionary['nav.projects'];
   });
   document.querySelector('.lang-btn.active')?.classList.remove('active');
   document.querySelector(`.lang-btn[data-lang="${lang}"]`)?.classList.add('active');
   localStorage.setItem('alumplast-lang', lang);
 }
+function initializeProjectCarousels() {
+  const reduceMotion = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches ?? false;
+  document.querySelectorAll('.project-gallery').forEach((gallery) => {
+    const sourceImages = [...gallery.querySelectorAll('.project-gallery-item img')];
+    if (!sourceImages.length) return;
+
+    const carousel = document.createElement('div');
+    carousel.className = 'project-carousel';
+    const stage = document.createElement('div');
+    stage.className = 'project-carousel-stage';
+
+    const mainImage = sourceImages[0].cloneNode(false);
+    mainImage.classList.add('project-carousel-main');
+    mainImage.removeAttribute('loading');
+    mainImage.setAttribute('fetchpriority', 'high');
+    stage.append(mainImage);
+
+    const makeArrow = (direction, key, label, symbol) => {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = `project-carousel-arrow project-carousel-${direction}`;
+      button.dataset.carouselDirection = direction;
+      button.dataset.i18nAriaLabel = key;
+      button.setAttribute('aria-label', label);
+      button.textContent = symbol;
+      stage.append(button);
+      return button;
+    };
+    const previous = makeArrow('previous', 'projects.previousPhoto', 'Previous photo', '\u2039');
+    const next = makeArrow('next', 'projects.nextPhoto', 'Next photo', '\u203a');
+
+    const counter = document.createElement('span');
+    counter.className = 'project-carousel-counter';
+    counter.setAttribute('aria-live', 'polite');
+    counter.setAttribute('aria-atomic', 'true');
+    stage.append(counter);
+
+    const toggle = document.createElement('button');
+    toggle.type = 'button';
+    toggle.className = 'project-carousel-toggle';
+    toggle.dataset.carouselToggle = '';
+    toggle.setAttribute('aria-pressed', String(reduceMotion));
+    toggle.dataset.carouselPaused = String(reduceMotion);
+    toggle.textContent = reduceMotion ? '\u25b6' : '\u275a\u275a';
+    stage.append(toggle);
+
+    const thumbnails = document.createElement('div');
+    thumbnails.className = 'project-carousel-thumbnails';
+    thumbnails.setAttribute('role', 'group');
+    thumbnails.dataset.i18nAriaLabel = 'projects.thumbnailList';
+    thumbnails.setAttribute('aria-label', 'Choose a photo');
+    const thumbnailButtons = sourceImages.map((source, index) => {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'project-carousel-thumbnail';
+      button.dataset.carouselThumbnail = String(index);
+      button.dataset.carouselTotal = String(sourceImages.length);
+      button.setAttribute('aria-pressed', String(index === 0));
+      if (index === 0) button.classList.add('is-active');
+      const thumbnail = source.cloneNode(false);
+      if (source.dataset.thumbnailSrc) thumbnail.src = source.dataset.thumbnailSrc;
+      thumbnail.removeAttribute('data-i18n-alt');
+      thumbnail.setAttribute('alt', '');
+      thumbnail.removeAttribute('fetchpriority');
+      thumbnail.setAttribute('loading', 'lazy');
+      thumbnail.setAttribute('aria-hidden', 'true');
+      button.append(thumbnail);
+      thumbnails.append(button);
+      return button;
+    });
+    carousel.append(stage, thumbnails);
+
+    if (sourceImages.length < 2) {
+      previous.hidden = true;
+      next.hidden = true;
+      toggle.hidden = true;
+      thumbnails.hidden = true;
+    }
+
+    const title = gallery.querySelector('#project-gallery-title');
+    title?.after(carousel);
+    gallery.querySelectorAll('.project-gallery-item').forEach((figure) => figure.remove());
+
+    let current = 0;
+    let timer = null;
+    let hoverPaused = false;
+    let userPaused = reduceMotion;
+    const stopTimer = () => {
+      if (timer !== null) window.clearTimeout(timer);
+      timer = null;
+    };
+    const scheduleNext = () => {
+      stopTimer();
+      if (sourceImages.length < 2 || userPaused || hoverPaused || document.hidden) return;
+      timer = window.setTimeout(() => {
+        show(current + 1);
+        scheduleNext();
+      }, 5000);
+    };
+    const show = (index) => {
+      current = (index + sourceImages.length) % sourceImages.length;
+      const selected = sourceImages[current];
+      mainImage.src = selected.getAttribute('src');
+      mainImage.dataset.i18nAlt = selected.dataset.i18nAlt || '';
+      mainImage.alt = content[currentLang]?.[mainImage.dataset.i18nAlt] || selected.alt;
+      counter.textContent = `${current + 1} / ${sourceImages.length}`;
+      thumbnailButtons.forEach((button, buttonIndex) => {
+        const active = buttonIndex === current;
+        button.classList.toggle('is-active', active);
+        button.setAttribute('aria-pressed', String(active));
+      });
+      thumbnailButtons[current]?.scrollIntoView({ block: 'nearest', inline: 'center', behavior: 'smooth' });
+    };
+
+    previous.addEventListener('click', () => { show(current - 1); scheduleNext(); });
+    next.addEventListener('click', () => { show(current + 1); scheduleNext(); });
+    thumbnailButtons.forEach((button) => button.addEventListener('click', () => {
+      show(Number(button.dataset.carouselThumbnail));
+      scheduleNext();
+    }));
+    toggle.addEventListener('click', () => {
+      userPaused = !userPaused;
+      toggle.dataset.carouselPaused = String(userPaused);
+      toggle.setAttribute('aria-pressed', String(userPaused));
+      toggle.textContent = userPaused ? '\u25b6' : '\u275a\u275a';
+      toggle.setAttribute('aria-label', userPaused ? content[currentLang]['projects.playPhotos'] : content[currentLang]['projects.pausePhotos']);
+      scheduleNext();
+    });
+    gallery.addEventListener('mouseenter', () => { hoverPaused = true; stopTimer(); });
+    gallery.addEventListener('mouseleave', () => { hoverPaused = false; scheduleNext(); });
+    document.addEventListener('visibilitychange', scheduleNext);
+
+    let swipeStart = null;
+    stage.addEventListener('touchstart', (event) => { swipeStart = event.changedTouches[0]?.clientX ?? null; }, { passive: true });
+    stage.addEventListener('touchend', (event) => {
+      if (swipeStart === null) return;
+      const delta = event.changedTouches[0].clientX - swipeStart;
+      swipeStart = null;
+      if (Math.abs(delta) < 45) return;
+      show(current + (delta < 0 ? 1 : -1));
+      scheduleNext();
+    }, { passive: true });
+    show(0);
+    scheduleNext();
+  });
+}
+initializeProjectCarousels();
 document.querySelectorAll('.lang-btn').forEach((button) => {
   button.addEventListener('click', () => { currentLang = button.dataset.lang; applyTranslations(currentLang); });
 });
